@@ -1,0 +1,4 @@
+# Lithium v1
+# Minimal tweaks focused on battery efficiency
+
+ro.sys.fw.bg_apps_limit=30
