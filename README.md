@@ -30,7 +30,7 @@ If you’re expecting huge FPS gains or miracles, this isn’t it.
  Compatibility
 - LineageOS and LineageOS-based ROMs  
   (tested on LineageOS / crDroid)
-- Android 14+  
+- Android 13+  
 - Root required (Magisk)
 
 Other ROMs *might* work, but no guarantees
@@ -77,6 +77,7 @@ That’s it.
 
 
 ## Disclaimer
-Use at your own risk.  
+Use at your own risk.
+Your warranty is now void 
 This is a personal project made for learning and experimentation.
 
