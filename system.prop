@@ -1,4 +1,6 @@
 # Lithium v1
 # Minimal tweaks focused on battery efficiency
 
-ro.sys.fw.bg_apps_limit=30
+ro.sys.fw.bg_apps_limit=32
+debug.sf.latch_unsignaled=1
+debug.hwui.render_thread=true
