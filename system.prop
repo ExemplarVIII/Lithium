@@ -1,5 +1,5 @@
-# Lithium v1
-# Minimal tweaks focused on battery efficiency
+# Lithium v1.1
+# Performance-lean tuning while still keeping battery efficiency
 
 ro.sys.fw.bg_apps_limit=32
 debug.sf.latch_unsignaled=1
