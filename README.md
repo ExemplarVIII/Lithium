@@ -58,7 +58,6 @@ Other ROMs *might* work, but no guarantees
   
 ### Lithium v1.3 (planned)
 - Internal cleanup and consistency improvements
-- Small refinements based on feedback from v1.x releases
 - Focus on stability and predictable behavior
 
 ## Installation
