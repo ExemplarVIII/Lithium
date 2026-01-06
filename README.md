@@ -44,17 +44,22 @@ Other ROMs *might* work, but no guarantees
 - Small system-level tweaks
 - Focus on stability and battery efficiency
 
-## Upcoming
+### Lithium v1.1
+- Performance-lean tuning
+- Smoother multitasking behavior
+- Minor UI rendering improvements
+- Still focused on stability and battery efficiency
 
-### Lithium v1.1 (planned)
-- Slight performance-oriented tuning
-- Still battery-aware
-- No aggressive changes
+## Upcoming
 
 ### Lithium v1.2 (planned)
 - Balanced profile
 - Daily-driver focused
-
+  
+### Lithium v1.3 (planned)
+- Internal cleanup and consistency improvements
+- Small refinements based on feedback from v1.x releases
+- Focus on stability and predictable behavior
 
 ## Installation
 1. Install Magisk
