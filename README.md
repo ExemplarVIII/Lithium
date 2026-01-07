@@ -36,7 +36,6 @@ If you’re expecting huge FPS gains or miracles, this isn’t it.
 Other ROMs *might* work, but no guarantees
 
 
-
 ## Versions
 
 ### Lithium v1
@@ -50,15 +49,32 @@ Other ROMs *might* work, but no guarantees
 - Minor UI rendering improvements
 - Still focused on stability and battery efficiency
 
+  ### v1.2 
+A balanced update focused on stability, smoothness, and efficiency.
+Changes:
+
+- Refined performance stability under sustained usage
+- Improved balance between responsiveness and battery life
+- Additional non-aggressive system optimizations
+- Further refinement of tweaks introduced in v1.1
+
 ## Upcoming
 
-### Lithium v1.2 (planned)
-- Balanced profile
-- Daily-driver focused
-  
-### Lithium v1.3 (planned)
-- Internal cleanup and consistency improvements
-- Focus on stability and predictable behavior
+### v1.3 – (planned)
+This update focuses on refining balance further without sacrificing stability.
+
+Planned changes:
+- Improved background task handling
+- More consistent UI responsiveness under load
+- Additional power efficiency tuning
+- Further refinement of existing optimizations
+
+### v1.4 - (planned)
+A smaller refinement update focused on polish and consistency.
+
+Planned changes:
+- Minor efficiency improvements
+- Further stability refinements
 
 ## Installation
 1. Install Magisk
@@ -71,7 +87,6 @@ That’s it.
 ## Notes
 - This project is mainly for learning
 - Feedback is welcome, but keep expectations realistic and i have limited time
-- I prioritize stability over features
 
 
 ## Credits
@@ -82,6 +97,5 @@ That’s it.
 
 ## Disclaimer
 Use at your own risk.
-Your warranty is now void 
 This is a personal project made for learning and experimentation.
 
