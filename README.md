@@ -49,7 +49,7 @@ Other ROMs *might* work, but no guarantees
 - Minor UI rendering improvements
 - Still focused on stability and battery efficiency
 
-  ### v1.2 
+### Lithium v1.2 
 A balanced update focused on stability, smoothness, and efficiency.
 Changes:
 
