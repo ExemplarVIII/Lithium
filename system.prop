@@ -1,6 +1,35 @@
-# Lithium v1.1
-# Performance-lean tuning while still keeping battery efficiency
+# ===============================
+# Lithium v1.2 - Balanced Profile
+# ===============================
 
-ro.sys.fw.bg_apps_limit=32
-debug.sf.latch_unsignaled=1
-debug.hwui.render_thread=true
+# Scheduler / general smoothness
+sched_colocation_enable=0
+sched_prefer_idle=1
+
+# Touch & UI responsiveness
+persist.sys.scrollingcache=3
+view.scroll_friction=0.008
+
+# Performance stability (non-aggressive)
+ro.vendor.qti.sys.fw.bg_apps_limit=48
+ro.vendor.qti.sys.fw.bservice_limit=6
+
+# Power efficiency
+power.saving.mode=1
+ro.config.hw_power_saving=1
+
+# Thermal sanity (do NOT fight thermal engine)
+persist.vendor.thermal.config=default
+
+# I/O behavior
+ro.sys.fw.use_trim_settings=true
+sys.io.scheduler=cfq
+
+# ZRAM (safe balance)
+ro.vendor.qti.config.zram=true
+ro.vendor.qti.config.zram.size=25
+
+# Disable useless debug overhead
+persist.sys.logkit.ctrlcode=0
+persist.sys.logkit.enable=false
+log.tag.stats_log=SUPPRESS
