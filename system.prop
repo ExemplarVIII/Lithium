@@ -1,5 +1,5 @@
 # ===============================
-# Lithium v1.2 - Balanced Profile
+# Lithium v1.3 - Balanced 
 # ===============================
 
 # Scheduler / general smoothness
@@ -33,3 +33,7 @@ ro.vendor.qti.config.zram.size=25
 persist.sys.logkit.ctrlcode=0
 persist.sys.logkit.enable=false
 log.tag.stats_log=SUPPRESS
+
+# UI consistency under load
+persist.sys.ui.hw=true
+
