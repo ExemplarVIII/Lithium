@@ -58,23 +58,35 @@ Changes:
 - Additional non-aggressive system optimizations
 - Further refinement of tweaks introduced in v1.1
 
+### Lithium v1.3
+balanced update with runtime optimizations.
+
+- Runtime scheduler tuning
+- Storage I/O optimization
+- Improved background app handling
+- Adaptive battery enforcement
+- Reduced runtime logging
+- Improved UI consistency
+
 ## Upcoming
 
-### v1.3 – (planned)
-This update focuses on refining balance further without sacrificing stability.
+### Lithium v1.4 – Balanced (planned)
+Focuses on refinement and polish while keeping stability.
 
 Planned changes:
-- Improved background task handling
-- More consistent UI responsiveness under load
-- Additional power efficiency tuning
-- Further refinement of existing optimizations
-
-### v1.4 - (planned)
-A smaller refinement update focused on polish and consistency.
-
-Planned changes:
+- Further runtime optimization refinements
+- Improved background task consistency
 - Minor efficiency improvements
-- Further stability refinements
+- Additional stability tuning
+
+### Lithium v1.5 – Refinement Update (planned)
+A small update focused on consistency and cleanup.
+
+Planned changes:
+- Minor performance refinements
+- Further efficiency tuning
+
+Plans may change depending on testing results and available time.
 
 ## Installation
 1. Install Magisk
